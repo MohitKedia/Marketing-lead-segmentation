@@ -19,3 +19,23 @@ Machine Learning Engineer Portfolio
 Marketing Analytics Projects
 
 GitHub Resume Projects
+
+🎯 Business Problem
+
+Companies generate thousands of leads through:
+
+Website visits
+
+Social media campaigns
+
+Ads
+
+Email marketing
+
+Product inquiries
+
+But not every lead is equally valuable.
+
+The goal of this project is to:
+
+✅ Identify high-value leads ✅ Prioritize sales team efforts ✅ Improve marketing conversion rate ✅ Increase revenue ✅ Reduce marketing cost
