@@ -39,3 +39,30 @@ But not every lead is equally valuable.
 The goal of this project is to:
 
 ✅ Identify high-value leads ✅ Prioritize sales team efforts ✅ Improve marketing conversion rate ✅ Increase revenue ✅ Reduce marketing cost
+
+
+🧠 Machine Learning Technique Used
+K-Means Clustering (Unsupervised Learning)
+
+K-Means groups customers into clusters based on similar behavior.
+
+In this project:
+
+Cluster 0 → Cold Leads
+
+Cluster 1 → Warm Leads
+
+Cluster 2 → Hot Leads
+
+The algorithm automatically learns patterns from customer behavior.
+
+🛠️ Technologies Used
+
+Technology                 Purpose
+Python                     Programming  
+Jupyter                    Development
+Pandas                     Data Analysis
+NumPy                      Numerical Operations
+Matplotlib                 Visualization
+Seaborn                    Advanced visualization
+Sci-kit learn              Machine learning
