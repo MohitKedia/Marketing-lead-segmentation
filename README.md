@@ -108,3 +108,51 @@ Cold Lead
 
 Follow K-Means Clustering Project Code Jupyter notebook for further reading, coding and analysis
 
+7. 📌 Business Interpretation
+
+   🔥 Hot Leads
+
+Characteristics:
+
+High income
+
+High engagement
+
+Many website visits
+
+High customer score
+
+Frequent purchases
+
+Business Action:
+
+✅ Immediate sales follow-up ✅ Personal offers ✅ Premium recommendations
+
+🌤️ Warm Leads
+
+Characteristics:
+
+Moderate engagement
+
+Average interaction
+
+Some purchasing behavior
+
+Business Action:
+
+✅ Email marketing ✅ Product demos ✅ Discount offers
+
+❄️ Cold Leads
+
+Characteristics:
+
+Low engagement
+
+Few visits
+
+Low purchase intent
+
+Business Action:
+
+✅ Awareness campaigns ✅ Retargeting ads ✅ Low-cost nurturing
+
