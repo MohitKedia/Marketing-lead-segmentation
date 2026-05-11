@@ -1,6 +1,6 @@
 # Marketing-lead-segmentation using K-Means clustering
 
-🚀 Project Overview
+1. 🚀 Project Overview
 
 This project builds a Marketing Lead Segmentation System using K-Means Clustering to classify business leads into:
 
@@ -20,7 +20,7 @@ Marketing Analytics Projects
 
 GitHub Resume Projects
 
-🎯 Business Problem
+2. 🎯 Business Problem
 
 Companies generate thousands of leads through:
 
@@ -41,7 +41,7 @@ The goal of this project is to:
 ✅ Identify high-value leads ✅ Prioritize sales team efforts ✅ Improve marketing conversion rate ✅ Increase revenue ✅ Reduce marketing cost
 
 
-🧠 Machine Learning Technique Used
+3. 🧠 Machine Learning Technique Used
 K-Means Clustering (Unsupervised Learning)
 
 K-Means groups customers into clusters based on similar behavior.
@@ -56,7 +56,7 @@ Cluster 2 → Hot Leads
 
 The algorithm automatically learns patterns from customer behavior.
 
-🛠️ Technologies Used
+4. 🛠️ Technologies Used
 
 Python
 
@@ -72,7 +72,7 @@ Seaborn
 
 Sci-kit learn              
 
-📊 Dataset Description
+5. 📊 Dataset Description
 
 We create a marketing lead dataset with the following features:
 
@@ -104,7 +104,7 @@ Warm Lead
 
 Cold Lead
 
-📖 Reading the Data
+6. 📖 Reading the Data
 
-Follow K-Means Clustering Project Code Jupyter notebook for further reading and analysis
+Follow K-Means Clustering Project Code Jupyter notebook for further reading, coding and analysis
 
