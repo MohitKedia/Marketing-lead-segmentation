@@ -103,3 +103,8 @@ Hot Lead
 Warm Lead
 
 Cold Lead
+
+📖 Reading the Data
+
+Follow K-Means Clustering Project Code Jupyter notebook for further reading and analysis
+
