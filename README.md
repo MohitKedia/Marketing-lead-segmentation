@@ -58,11 +58,16 @@ The algorithm automatically learns patterns from customer behavior.
 
 🛠️ Technologies Used
 
-Technology                 Purpose
-Python                     Programming  
-Jupyter                    Development
-Pandas                     Data Analysis
-NumPy                      Numerical Operations
-Matplotlib                 Visualization
-Seaborn                    Advanced visualization
-Sci-kit learn              Machine learning
+Python
+
+Jupyter
+
+Pandas 
+
+NumPy    
+
+Matplotlib 
+
+Seaborn     
+
+Sci-kit learn              
