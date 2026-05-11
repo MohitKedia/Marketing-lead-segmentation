@@ -71,3 +71,35 @@ Matplotlib
 Seaborn     
 
 Sci-kit learn              
+
+📊 Dataset Description
+
+We create a marketing lead dataset with the following features:
+
+Feature	Description
+
+age	    Customer age
+
+annual_income	Customer yearly income
+
+website_visits	Number of website visits
+
+pages_viewed	Total pages viewed
+
+time_spent_minutes	Time spent on website
+
+email_click_rate	Email engagement
+
+previous_purchases	Past purchases
+
+ad_clicks	   Advertisement clicks
+
+customer_score	Overall engagement score
+
+Target Generated:
+
+Hot Lead
+
+Warm Lead
+
+Cold Lead
