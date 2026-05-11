@@ -13,6 +13,9 @@ The project analyzes customer behavior and engagement patterns to determine how 
 This is a beginner-friendly yet industry-style Machine Learning project suitable for:
 
 Data Analyst Portfolio
+
 Machine Learning Engineer Portfolio
+
 Marketing Analytics Projects
+
 GitHub Resume Projects
